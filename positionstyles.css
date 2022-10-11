@@ -42,14 +42,14 @@ margin-right:
   background-color: red; 
 } 
 .green2 { 
-  width: 150px; 
-  height: 150px; 
+  width: 100px; 
+  height: 100px; 
   background-color: green; 
   margin: -50px 0 0 50px;
 } 
 .yellow2 {
-  width: 150px; 
-  height: 150px; 
+  width: 100px; 
+  height: 100px; 
   background-color: gold; 
   margin: -50px 0 0 100px;
 } 
